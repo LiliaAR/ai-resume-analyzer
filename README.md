@@ -44,3 +44,11 @@ streamlit run app.py
 ---
 
 **Built to solve a real problem.** Practical AI application that anyone can understand and use.
+
+## Recent Updates
+
+### January 2026
+- Enhanced skill extraction with GPT-4o
+- Added job description matching capabilities
+- Improved categorization logic
+- Multi-tab analysis interface coming soon
